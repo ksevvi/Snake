@@ -5,9 +5,11 @@
 ### Как это выглядит:
 
 - Начало игры
+  
 ![image](https://github.com/ksevvi/Snake/assets/109472082/f3dda7e0-5d95-4645-b31c-5e5a6cd09639)
 
 - 10 яблок спустя
+  
 ![image](https://github.com/ksevvi/Snake/assets/109472082/70f24fd2-b20f-443c-8092-50a59271cd2c)
 
 ### Как играть в игру:
